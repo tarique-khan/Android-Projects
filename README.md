@@ -1,3 +1,3 @@
-# Android
+# Android Projects
 
-This Repository demonstrate the list of Android application.
+This Repository contains all Android Projects.
